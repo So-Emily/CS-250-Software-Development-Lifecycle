@@ -34,4 +34,4 @@ This project was more about adapting code than building from scratch.
 
 ## Favorite part
 
-The wellness theme was my favorite update — it made the slideshow feel more intentional instead of random locations. Also kind of funny that everything turned into yoga.
+The wellness theme was my favorite update! It made the slideshow feel more intentional instead of random locations. Also kind of funny that everything turned into yoga in different places.
