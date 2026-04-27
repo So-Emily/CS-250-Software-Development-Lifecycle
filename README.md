@@ -26,7 +26,7 @@ I liked working in sprints and using retrospectives because it gave me a chance 
 
 ### What does it mean to be a good team member in software development?
 
-To me, being a good team member means being reliable, communicating clearly, and being willing to collaborate. It’s not just about doing your own work—it’s about making sure the whole team succeeds.
+To me, being a good team member means being reliable, communicating clearly, and being willing to collaborate. It’s not just about doing your own work, it’s about making sure the whole team succeeds.
 
 That also means being open to feedback and helping others when needed. In Agile especially, communication is huge, so staying engaged and contributing to discussions really matters.
 
